@@ -1,0 +1,7 @@
+Python lesson, 10/12/2012.
+
+A Twitter app for "stalking" a Twitter list.
+
+Features:
+* Twitter list creation
+* Requesting the last tweet fro every member of the list from the Twitter API
